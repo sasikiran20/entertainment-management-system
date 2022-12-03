@@ -1,1 +1,1 @@
-# Entertainment Management System
+# Entertainment Management System in ReactJS
